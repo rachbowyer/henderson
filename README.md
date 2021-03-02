@@ -1,8 +1,6 @@
 # Henderson
 
-![Picture of William Barton Rogers transformed by the Square Limit transformation](https://github.com/rachbowyer/henderson/blob/main/barton-square-cut.png = 250x250)
-
-
+<img src="https://github.com/rachbowyer/henderson/blob/main/barton-square-cut.png" alt="Picture of William Barton Rogers transformed by the Square Limit transformation" width="250"/>
 
 Henderson is a partial implementation in Clojure of the Henderson Picture Language
 described in Structure and Interpretation of Computer Programs by Harold Abelson 
