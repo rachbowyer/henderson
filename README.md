@@ -1,6 +1,6 @@
 # Henderson
 
-![Picture of William Barton Rogers transformed by the Square Limit transformation](https://github.com/rachbowyer/henderson/blob/main/barton-square-cut.png)
+![Picture of William Barton Rogers transformed by the Square Limit transformation](https://github.com/rachbowyer/henderson/blob/main/barton-square-cut.png = 250x250)
 
 
 
