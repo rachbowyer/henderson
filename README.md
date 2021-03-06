@@ -9,7 +9,7 @@ and Gerald Sussman (aka [SICP](https://mitpress.mit.edu/sites/default/files/sicp
 HPL was invented by Professor Peter Henderson and first 
 described in his 1982 paper (Henderson, P. (1982) Functional Geometry. Proc. 
 ACM Symp. on Lisp and Functional Programming. pp. 179-187). An update version of
-the paper is available here https://eprints.soton.ac.uk/257577/1/funcgeo2.pdf.
+the paper is available [here](https://eprints.soton.ac.uk/257577/1/funcgeo2.pdf).
 SICP uses HPL to illustrate abstraction, 
 high order functions, combinators and composition.
 
@@ -25,8 +25,8 @@ in the tests. It would be interested in trying a Free Monad based approach... on
 ## Installation
 
 Henderson is available from Clojars.
-[![Clojars Project](https://img.shields.io/clojars/v/henderson.svg)](https://clojars.org/henderson)
 
+[![Clojars Project](https://img.shields.io/clojars/v/rachbowyer/henderson.svg)](https://clojars.org/rachbowyer/henderson)
 
 ## Usage
 To make the Henderson functions available type:
