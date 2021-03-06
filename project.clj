@@ -1,7 +1,7 @@
 ;; Copyright ©️ Rachel Bowyer 2015, 2021.
 ;; Please see the LICENSE file for more information
 
-(defproject henderson "0.1.0"
+(defproject rachbowyer/henderson "0.1.1"
   :description "Henderson Picture Language for Clojure"
   :url "https://github.com/rachbowyer/henderson"
 

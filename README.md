@@ -8,7 +8,7 @@ and Gerald Sussman (aka [SICP](https://mitpress.mit.edu/sites/default/files/sicp
 
 HPL was invented by Professor Peter Henderson and first 
 described in his 1982 paper (Henderson, P. (1982) Functional Geometry. Proc. 
-ACM Symp. on Lisp and Functional Programming. pp. 179-187). An update version of
+ACM Symp. on Lisp and Functional Programming. pp. 179-187). An updated version of
 the paper is available [here](https://eprints.soton.ac.uk/257577/1/funcgeo2.pdf).
 SICP uses HPL to illustrate abstraction, 
 high order functions, combinators and composition.
@@ -43,6 +43,8 @@ Examples (from page 133 SICP 2nd Edition)
 
 Note that the origin is at the top left, positive x goes right
 and positive y goes down in accordance with Java2d and most UI systems.
+
+For more information see the docs in /doc and of course SICP!
 
 ## License for Henderson
 
