@@ -20,7 +20,7 @@ library, but never found the time until now!
 
 The code works well in rendering the _painters_ in 2.2.4, but I feel uncomfortable
 with the implementation. IO is interwoven into the combinators and has to be mocked out
-in the tests. It would be interested in trying a Free Monad based approach... one day.
+in the tests. It would be interesting to try a Free Monad based approach... one day.
 
 ## Installation
 

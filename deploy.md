@@ -36,7 +36,7 @@ To deploy do
      lein deploy clojars
 
 Then enter username "rachbowyer" and for the password the deploy token
-Will then sign using GPG. If the passphrase is not in the computers memory,
+Will then sign using GPG. If the passphrase is not in the computer's memory,
 it will ask you for the passphrase
 
 ## After the release
